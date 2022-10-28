@@ -1,1 +1,1 @@
-100 Python Projects With Dr. Angela Yu
+100 Days of Python Code with Dr. Angela Yu
