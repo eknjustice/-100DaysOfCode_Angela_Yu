@@ -5,4 +5,4 @@ peopleSharingBill = int(input("How many people to split the bill? "))
 tipAmount = (tipPercentage / 100) * totalBill
 totalCost = totalBill + tipAmount
 sharePerPerson = totalCost / peopleSharingBill
-print(f"Each person should pay: $"+"{0:.2f}".format(sharePerPerson))
+print(f"Each person should pay: $"+"{:.2f}".format(sharePerPerson))
